@@ -1,4 +1,3 @@
-
 """
 Exercício 1: Estruturas Condicionais e Operações Matemáticas
 
