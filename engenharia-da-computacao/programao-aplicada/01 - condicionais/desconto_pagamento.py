@@ -1,13 +1,13 @@
 valorFinal = float(input("Digite o valor total da compra: "))
-formaPagamento = int(input("Informe a condição de pagamento:"))
+condicaoPagamento = int(input("Informe a condição de pagamento:"))
 
-if formaPagamento == 1:
+if condicaoPagamento == 1:
   percentual = 0.15
 
-elif formaPagamento == 2:
+elif condicaoPagamento == 2:
   percentual = 0.10
 
-elif formaPagamento == 3:
+elif condicaoPagamento == 3:
   percentual = 0.05
 
 else:
